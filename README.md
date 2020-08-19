@@ -1,5 +1,7 @@
 # Virtual USB for Android - CLI Start
 
+The offical documentation for Virtual USB can be found on the Sauce Labs Wiki at [https://wiki.saucelabs.com/display/DOCS/Testing+with+Virtual+USB+on+Real+Devices]().
+
 ## Setup
 
 These scripts expect that environment variables are set for __TESTOBJECT_USER_API_KEY__.
